@@ -1,3 +1,3 @@
 def print2(msg):
-    print(msg)
-    print(msg)
+    print("mensagem1 "+msg)
+    print("mensagem2 "+msg)
